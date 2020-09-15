@@ -1,10 +1,8 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: University of Birjand
+  dates: 2018
+  qualification: Computer engineering
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    University of Birjand, the largest and the oldest university in South Khorasan Province, was founded in 1975 by offering BSc degrees in Chemistry, Physics, and Mathematics. The first president of the university was Professor Mohammad Hasan Ganji, who is credited as being the Father of Modern Geography in Iran.
+  # description: | # this will include new lines to allow paragraphs
+    

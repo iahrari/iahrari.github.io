@@ -15,3 +15,23 @@
     A simple reminder android app
   description: | 
     I started this project as a way of learning android <mark>Services</mark>, <mark>BroadcastReceivers</mark>, and <mark>AlarmManager</mark>.
+
+- layout: left
+  name: Android Filter for TSETMC
+  link: github.com/iahrari/AndroidFilterForTsetmc
+  github: github.com/iahrari/AndroidFilterForTsetmc
+  quote: >
+    An android app for fetching data from www.tsetmc.com and run some simple filters and search on its data.
+  description: |
+    I started this project as a favour for one of my friends. Some challenges I had in this project was parsing data from excel's <mark>XLSX</mark> files and <mark>XML</mark> files.
+
+- layout: left 
+  name: Tic
+  link: github.com/iahrari/Tic
+  github: github.com/iahrari/Tic
+  quote: >
+    An app for fetching students attendance and extra classes for each users in sturc.birjand.ac.ir (University of Birjand's attendance panel).
+  description: |
+    In this project I had challenges with login and parsing data with webview and javascript. Unfortunately university changed this panel and this app won't work anymore.
+
+

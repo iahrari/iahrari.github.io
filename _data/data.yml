@@ -62,19 +62,19 @@ projects:
     assignments:
       - title: Github Seeker
         link: "github.com/iahrari/GithubSeeker"
-        tagline: "A simplle app for seeking github. I started this project as a way of learning MVVM, Retrofit, and Dependency Injection."
+        tagline: "A simplle app for seeking github. I started this project as a way of learning <mark>MVVM</mark>, <mark>Retrofit</mark>, and <mark>Dependency Injection</mark>."
 
       - title: Android Simple Reminder
         link: "github.com/iahrari/AndroidSimpleReminder"
-        tagline: "A reminder for android. I started this project as a way of learning android Services, BroadcastReceivers, and AlarmManager."
+        tagline: "A reminder for android. I started this project as a way of learning android <mark>Services</mark>, <mark>BroadcastReceivers</mark>, and <mark>AlarmManager</mark>."
 
       - title: Android Filter for TSETMC
         link: "github.com/iahrari/AndroidFilterForTsetmc"
-        tagline: "An android app for fetching data from www.tsetmc.com and run some simple filters and search on its data. I started this project as a favour for one of my friends. Some challenges I had in this project was parsing data from excel’s XLSX files and XML files."
+        tagline: "An android app for fetching data from www.tsetmc.com and run some simple filters and search on its data. I started this project as a favour for one of my friends. Some challenges I had in this project was parsing data from excel’s <mark>XLSX</mark> files and <mark>XML</mark> files."
 
       - title: Tic
         link: "github.com/iahrari/Tic"
-        tagline: "An unofficial app for sturc.birjand.ac.ir (University of Birjand's attendance panel). In this project I solved challenges with login and parsing data with webview and javascript. Unfortunately university replaced this panel and this app won’t work anymore."
+        tagline: "An unofficial app for sturc.birjand.ac.ir (University of Birjand's attendance panel). In this project I solved challenges with login and parsing data from Webview with <mark>Javascript</mark>. Unfortunately university replaced this panel and this app won’t work anymore."
 
 experiences:
     - role: Android Developer

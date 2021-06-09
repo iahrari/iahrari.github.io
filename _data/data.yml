@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: r.ahrari.i@gmail.com
+    email: iahrari@pm.me
     # phone: 012 345 6789
     website: iahrari.github.io #do not add http://
     linkedin: iahrari
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Hi, I'm Iman and I'm an andriod developer. I love coding in Java and Kotlin. And I'm trying to learn Flutter and Golang.
+      Hi, I'm Iman and I'm a curious programmer. I love coding in Java and Kotlin. And I'm trying to learn Flutter and Golang.
 education:
     - degree: Still educating
       university: University of Birjand

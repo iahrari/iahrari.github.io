@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Iman Ahrari
-    tagline: Junior Android Developer
+    tagline: Junior Java and Android Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Hi, I'm Iman and I'm a curious programmer. I love coding in Java and Kotlin. And I'm trying to learn Flutter and Golang.
+      Hi, I'm Iman and I'm a curious programmer. I love coding in Java and Kotlin. And I'm trying to learn Spring boot.
 education:
     - degree: Still educating
       university: University of Birjand
@@ -77,11 +77,17 @@ projects:
         tagline: "An unofficial app for sturc.birjand.ac.ir (University of Birjand's attendance panel). In this project I solved challenges with login and parsing data from Webview with <mark>Javascript</mark>. Unfortunately university replaced this panel and this app won’t work anymore."
 
 experiences:
+    - role: Intern Software Engineer
+      time: 2021
+      company: Dagger Team
+      details: |
+        We worked on a sample backend service called Quizak with <mark>Kotlin</mark> and <mark>Spring boot framework</mark>. Despite our main interest in developing backend service for visualization purposes we added a basic <mark>HTML</mark> and <mark>Bootstrap</mark> to the project(<a href="https://github.com/iahrari/Quizak">github link</a>).
+
     - role: Android Developer
       time: 2020
       company: The international E-Tourism Hackathon. (Hackatourism)
       details: |
-        As an android developer I was part of Dagger team in this event. Mostly I implemented UI(front end) for Sarnakh app(https://github.com/sajjadahmadish/Sarnakh).
+        As an android developer I was part of Dagger team in this event. Mostly I implemented UI(front end) for Sarnakh app(<a href="https://github.com/sajjadahmadish/Sarnakh">github link</a>).
 
 # publications:
 #     title: Publications
@@ -103,28 +109,55 @@ skills:
       - name: Kotlin
         level: 60%
 
+      - name: Android framework
+        level: 60%
+
+      - name: Spring boot
+        level: 35%
+
+      - name: Spring Data JPA
+        level: 40%
+
+      - name: Spring Security
+        level: 29%
+
+      - name: JUnit 5 and Mockito
+        level: 46%
+
+      - name: SQL Databases like MySQL, MariaDB, and SQLite
+        level: 45%
+
       - name: Coroutines
         level: 56%
 
-      - name: Room, LiveData, and Navigation
+      - name: Java Multithreading and concurency
+        level: 40% 
+
+      - name: Java functional api's
+        level: 40%
+
+      - name: Restful api and Networking
+        level: 40%
+
+      - name: Git
+        level: 60%
+
+      - name: JetPack's libraries like Room, LiveData, and Navigation
         level: 55%
 
       - name: MVVM
         level: 60%
 
-      - name: Restful api and Networking
-        level: 55%
-
-      - name: Git
-        level: 75%
-
       - name: C++
         level: 30%
 
       - name: GO
-        level: 25%
+        level: 20%
 
       - name: Flutter
+        level: 12%
+
+      - name: Docker
         level: 10%
       
 

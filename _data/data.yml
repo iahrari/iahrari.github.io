@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Iman Ahrari
-    tagline: Junior Java and Android Developer
+    tagline: Java and Kotlin Programmer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,7 +47,7 @@ career-profile:
     summary: |
       Hi, I'm Iman and I'm a curious programmer. I love coding in Java and Kotlin. And I'm trying to learn Spring boot.
 education:
-    - degree: Still educating
+    - degree: Bachelor of Software Engineering
       university: University of Birjand
       time: 2018 - Present
       details: |
@@ -57,20 +57,23 @@ projects:
     title: Projects
     # intro: >
     #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+    
+      - title: Spring boot examples
+        link: https://github.com/iahrari/spring-examples
+        tagline: "Simple <mark>Spring boot</mark> framework examples written in java based on <mark>Spring framework 5: beginners to Guru</mark>'s course. This projects was a learning opportunity and I did some little tweaks and updates to some of these projects."
+
+      - title: Quizak
+        link: https://github.com/iahrari/Quizak
+        tagline: "Simple web application designed with <mark>Spring boot</mark> framework and <mark>Kotlin</mark> language."
+
       - title: Github Seeker
         link: https://github.com/iahrari/GithubSeeker
-        tagline: "A simplle app for seeking github. I started this project as a way of learning <mark>MVVM</mark>, <mark>Retrofit</mark>, and <mark>Dependency Injection</mark>."
+        tagline: "A simple app for seeking github. I started this project as a way of learning <mark>MVVM</mark>, <mark>Retrofit</mark>, and <mark>Dependency Injection</mark>."
 
       - title: Android Simple Reminder
         link: https://github.com/iahrari/AndroidSimpleReminder
         tagline: "A reminder for android. I started this project as a way of learning android <mark>Services</mark>, <mark>BroadcastReceivers</mark>, and <mark>AlarmManager</mark>."
-
-      - title: Android Filter for TSETMC
-        link: https://github.com/iahrari/AndroidFilterForTsetmc
-        tagline: "An android app for fetching data from www.tsetmc.com and run some simple filters and search on its data. I started this project as a favour for one of my friends. Some challenges I had in this project was parsing data from excel’s <mark>XLSX</mark> files and <mark>XML</mark> files."
 
       - title: Tic
         link: https://github.com/iahrari/Tic
@@ -109,26 +112,23 @@ skills:
       - name: Kotlin
         level: 60%
 
-      - name: Android framework
-        level: 60%
-
       - name: Spring boot
-        level: 35%
+        level: 30%
 
       - name: Spring Data JPA
-        level: 40%
+        level: 35%
 
       - name: Spring Security
-        level: 29%
+        level: 20%
 
       - name: JUnit 5 and Mockito
-        level: 46%
+        level: 40%
 
       - name: SQL Databases like MySQL, MariaDB, and SQLite
-        level: 45%
+        level: 38%
 
       - name: Coroutines
-        level: 56%
+        level: 42%
 
       - name: Java Multithreading and concurency
         level: 40% 
@@ -137,15 +137,18 @@ skills:
         level: 40%
 
       - name: Restful api and Networking
-        level: 40%
+        level: 35%
 
       - name: Git
-        level: 60%
+        level: 37%
 
       - name: JetPack's libraries like Room, LiveData, and Navigation
-        level: 55%
+        level: 42%
 
       - name: MVVM
+        level: 60%
+
+      - name: Android framework
         level: 60%
 
       - name: C++

@@ -38,7 +38,7 @@
 
 ---
 
-### **Trainee / Junior Software Engineer | Snappbox**
+### **Junior Software Engineer | Snappbox**
 *Tehran, Iran | Nov 2021 — Mar 2022*
 
 * **Core API Development:** Built backend APIs and maintained database operations in high-throughput spring-based microservices, reducing application bugs in support queues by 20%.

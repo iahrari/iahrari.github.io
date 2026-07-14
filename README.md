@@ -1,5 +1,5 @@
 # **Iman Ahrari**
-**Senior Backend Engineer** | Currently in Tehran, Iran | Seeking Relocation: (UK, Europe, Turkey, Oman, Canada) | [iahrari.github.io](https://iahrari.github.io/) | [GitHub Profile](https://github.com/iahrari) | <i.ahrari@pm.me> | [linkedin.com/in/iahrari/](https://www.linkedin.com/in/iahrari/)
+**Senior Backend Engineer** | Currently in Tehran, Iran | [iahrari.github.io](https://iahrari.github.io/) | [GitHub Profile](https://github.com/iahrari) | <i.ahrari.dev@gmail.com> | [linkedin.com/in/iahrari/](https://www.linkedin.com/in/iahrari/)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-### **Junior Software Engineer | Snappbox**
+### **Software Engineer | Snappbox**
 *Tehran, Iran | Nov 2021 — Mar 2022*
 
 * **Core API Development:** Built backend APIs and maintained database operations in high-throughput spring-based microservices, reducing application bugs in support queues by 20%.

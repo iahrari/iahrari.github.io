@@ -1,5 +1,5 @@
 # **Iman Ahrari**
-**Senior Backend Engineer** | Currently in Tehran, Iran | [iahrari.github.io](https://iahrari.github.io/) | [GitHub Profile](https://github.com/iahrari) | <i.ahrari.dev@gmail.com> | [linkedin.com/in/iahrari/](https://www.linkedin.com/in/iahrari/)
+**Senior Backend Engineer** | Currently in Tehran, Iran (Seeking relocation to UK or Europe) | [iahrari.github.io](https://iahrari.github.io/) | [GitHub Profile](https://github.com/iahrari) | <i.ahrari.dev@gmail.com> | [linkedin.com/in/iahrari/](https://www.linkedin.com/in/iahrari/)
 
 ---
 
@@ -8,7 +8,7 @@
 * **Languages:** Java (Modern versions up to 25, performance tuning), Go, JavaScript, SQL, Kotlin
 * **Frameworks & Tools:** Spring Boot, Spring Security, Hibernate/JPA, Camunda BPMN/DMN, Keycloak, Maven
 * **Databases & Messaging:** PostgreSQL, Redis, RabbitMQ, Apache Kafka, DynamoDB, MongoDB, MariaDB, Flagsmith
-* **Cloud & Observability:** AWS (EKS, Lambda, SQS, Cognito, Secrets Manager, IAM), Docker, Kubernetes, GitHub Actions, Grafana, Prometheus, Kibana APM, Log4j
+* **Cloud & Observability:** AWS (EKS, Lambda, SQS, Cognito, Secrets Manager, IAM), Docker, Kubernetes, GitHub Actions, Grafana, Prometheus, Kibana APM, Log4j, OpenTelemetry, Elastic Search
 
 ---
 
@@ -27,24 +27,17 @@
 ---
 
 ### **Software Engineer | Snappbox (Leading Logistics & Ridesharing Platform)**
-*Tehran, Iran | Mar 2022 — May 2024*
+*Tehran, Iran | Nov 202 — May 2024*
 
 * **Workflow & Ticket Automation:** Engineered workflow systems using Camunda BPMN/DMN engines, automating internal support routing and reducing average ticket resolution times by 35%.
 * **High-Scale Batch Processing:** Built an asynchronous batch pipeline leveraging RabbitMQ and Redis to process millions of complex driver subsidy calculations with 100% data consistency.
 * **SSO System Migration:** Migrated live administration panels and tracking services to Keycloak-driven Single Sign-On (SSO), achieving secure session sharing and lowering unauthorized access attempts.
 * **Performance & Database Tuning:** Optimized high-throughput Camunda PostgreSQL database indexing, cutting latency on slow-running queries by 45%.
-
-**Stack:** Java, Spring Boot, Spring Gateway, Spring Flux, Camunda BPMN/DMN, Keycloak, Redis, RabbitMQ, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, Kafka, NATS, MongoDB, Jira, Jenkins, Liquibase
-
----
-
-### **Software Engineer | Snappbox**
-*Tehran, Iran | Nov 2021 — Mar 2022*
-
+* **Technical Onboarding & Mentorship:** Selected as a "Tech Buddy" at Snappbox to mentor junior engineers and new team members, facilitating smooth knowledge transfer on core Java/Spring Boot microservices and Camunda workflow engines.
 * **Core API Development:** Built backend APIs and maintained database operations in high-throughput spring-based microservices, reducing application bugs in support queues by 20%.
 * **Automated Testing:** Penned comprehensive JUnit and Mockito integration tests, boosting code coverage metrics to 85% across core logistics paths.
 
-**Stack:** Java, Spring Boot, JUnit, Mockito, Git, Maven, MariaDB
+**Stack:** Java, Spring Boot, Spring Gateway, Spring Flux, Camunda BPMN/DMN, Keycloak, Redis, RabbitMQ, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, Kafka, NATS, MongoDB, Jira, Jenkins, Liquibase, JUnit, Mockito, Git, Maven, MariaDB, OpenTelemetry, Elastic Search
 
 ---
 
